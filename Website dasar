@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Profile saya
+        </title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+            <li><a href = "https://google.com">HOME</a></li>
+            <li><a href = "https://cis.del.ac.id">PRODUCT</a></li>
+            <li><a href = "https://wikipedia.com">GALLERY</a></li>
+            <li><a href = "https://arkademy.com">MYINVENTORY</a></li>
+            <li><a href = "susu.com">MEREKA</a></li>
+            </ul>
+        </nav>
+    </body>
+</html>
